@@ -27,3 +27,70 @@ Twenty years turning enterprise data and AI strategy into signed, delivered, and
 ---
 
 ## How I work
+
+| As an account strategist | As a builder |
+| --- | --- |
+| Own the enterprise technology relationship, CIO to CISO to line-of-business | Prototype the thing before I pitch it — apps, agents, and data models |
+| Multi-year AI and data platform roadmaps tied to real business cases | Microsoft Fabric, Databricks, Snowflake, medallion lakehouse design |
+| Consumption and revenue ownership across Azure, Data & AI, and Security | Agentic workflows and Copilot extensibility, built and demoed live |
+| Partner and SI ecosystem co-sell — origination through delivery | Power Platform, Dataverse, and governed API integration |
+| Security and compliance posture: Purview, eDiscovery, identity modernization | Python, SQL, and enough DevOps to keep a demo honest |
+| Turn around slow-buying, politically complex accounts | Data governance frameworks that survive contact with an actual enterprise |
+
+---
+
+## Stack
+
+**Cloud & Data Platform**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse-1B5E9E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**AI & Analytics**
+
+![Copilot](https://img.shields.io/badge/Microsoft%20365%20Copilot-7B4FCB?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Build & Automate**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-0B6A0B?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Security & Governance**
+
+![Purview](https://img.shields.io/badge/Microsoft%20Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Entra](https://img.shields.io/badge/Microsoft%20Entra-2F6FEB?style=for-the-badge&logo=microsoft&logoColor=white)
+![Defender](https://img.shields.io/badge/Defender-005A9E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## Selected work
+
+**Deal Pack Studio** — an internal application I designed and built to assemble account-ready deal packages, presented to leadership as a scalable model for driving solution innovation and tighter client collaboration across the operating unit.
+
+**[DataGovernanceAccellerator](https://github.com/sdaluga/DataGovernanceAccellerator)** — a starting framework for organizations standing up data governance, built from the patterns that actually held up across enterprise engagements.
+
+---
+
+## Credentials
+
+**Northern Illinois University — College of Business**
+
+Microsoft Global Black Belt (Analytics & AI) · Microsoft Account Technology Strategist, Financial Services · Fabric, Databricks, and cloud-scale analytics specialization
+
+---
+
+## Track record
+
+Microsoft · Bitwise · Microsoft (Global Black Belt) · Accenture · Boston Consulting Group · Capgemini · Avanade · BridgeNet Solutions · Quilogy
+
+Twenty years across the vendor side and the partner side of the same problem: getting enterprises to actually adopt the platform they bought.
