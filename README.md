@@ -1,4 +1,4 @@
-# Seth Daluga
+![Seth Daluga - Enterprise AI, Data Platforms, Ecosystem Strategy](https://raw.githubusercontent.com/sdaluga/sdaluga/main/banner.png)
 
 ### Account Technology Strategist — Microsoft, Financial Services | Enterprise AI, Data Platforms, and Ecosystem Strategy
 
