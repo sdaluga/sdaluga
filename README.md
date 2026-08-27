@@ -83,6 +83,9 @@ Twenty years turning enterprise data and AI strategy into signed, delivered, and
 
 ## Credentials
 
+![Databricks Certified Data Engineer Associate](https://img.shields.io/badge/Databricks%20Certified-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Google Professional Machine Learning Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 **Northern Illinois University — College of Business**
 
 Microsoft Global Black Belt (Analytics & AI) · Microsoft Account Technology Strategist, Financial Services · Fabric, Databricks, and cloud-scale analytics specialization
