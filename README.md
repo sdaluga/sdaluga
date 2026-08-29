@@ -75,6 +75,10 @@ Twenty years turning enterprise data and AI strategy into signed, delivered, and
 
 ## Selected work
 
+**[claude-cowork-playbook](https://github.com/sdaluga/claude-cowork-playbook)** — everything needed to use Claude Cowork and ship Claude agents: three production-shaped examples in Python and TypeScript, Docker and Kubernetes manifests, a durable session-store adapter, and the governance most tutorials skip. 86 tests covering the security controls, each one mutation-checked by deliberately breaking the control and confirming the suite fails. Includes a live prompt-injection defence.
+
+**[fine-tuning-honestly](https://github.com/sdaluga/fine-tuning-honestly)** — a working toolkit for the parts of a model-tuning project that must be correct whether or not the training run is: the decision of whether to tune at all, data curation, evaluation, and the artifacts a review board asks for. 159 tests, no GPU required. The argument it makes is that most fine-tuning projects should not be fine-tuning projects, and it prices that claim.
+
 **Deal Pack Studio** — an internal application I designed and built to assemble account-ready deal packages, presented to leadership as a scalable model for driving solution innovation and tighter client collaboration across the operating unit.
 
 **[DataGovernanceAccellerator](https://github.com/sdaluga/DataGovernanceAccellerator)** — a starting framework for organizations standing up data governance, built from the patterns that actually held up across enterprise engagements.
