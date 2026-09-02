@@ -79,6 +79,8 @@ Twenty years turning enterprise data and AI strategy into signed, delivered, and
 
 **[fine-tuning-honestly](https://github.com/sdaluga/fine-tuning-honestly)** — a working toolkit for the parts of a model-tuning project that must be correct whether or not the training run is: the decision of whether to tune at all, data curation, evaluation, and the artifacts a review board asks for. 159 tests, no GPU required. The argument it makes is that most fine-tuning projects should not be fine-tuning projects, and it prices that claim.
 
+**[openai-agents-in-production](https://github.com/sdaluga/openai-agents-in-production)** — the same discipline applied to the OpenAI Agents SDK, starting from a finding: three of its defaults ship your customers' prompts to a third party before you have written a second file, and the flag most engineers set to prevent that governs a different code path. An egress-posture audit, provenance-scoped guardrails, a tenant-scoped session store, and a trace processor that keeps spans in your own estate. 137 tests, 30 mutation-checked controls, no API key required to run any of it.
+
 **Deal Pack Studio** — an internal application I designed and built to assemble account-ready deal packages, presented to leadership as a scalable model for driving solution innovation and tighter client collaboration across the operating unit.
 
 **[DataGovernanceAccellerator](https://github.com/sdaluga/DataGovernanceAccellerator)** — a starting framework for organizations standing up data governance, built from the patterns that actually held up across enterprise engagements.
